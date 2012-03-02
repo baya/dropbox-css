@@ -1,0 +1,70 @@
+/* Lay on fonts */
+/* line 3489, /tmp/build_3sojg6lzj8qmu/apphttp://durex.herokuapp.com/assets/stylesheets/style.css.scss */
+.fontface .en-gb .features li,
+.en-gb.create_intro .flash p {
+  font-family: 'HELVHANDFULL2Medium', Arial, Helvetica, sans-serif;
+  font-weight: normal !important;
+  letter-spacing: 1px !important;
+}
+
+/* polish */
+/* line 3496, /tmp/build_3sojg6lzj8qmu/apphttp://durex.herokuapp.com/assets/stylesheets/style.css.scss */
+.fontface .en-gb .features .feature-1 {
+  top: 36px;
+}
+
+/* line 3501, /tmp/build_3sojg6lzj8qmu/apphttp://durex.herokuapp.com/assets/stylesheets/style.css.scss */
+.fontface .en-gb .features .feature-2 {
+  left: 160px;
+}
+
+/* line 3505, /tmp/build_3sojg6lzj8qmu/apphttp://durex.herokuapp.com/assets/stylesheets/style.css.scss */
+.fontface .en-gb body.create_intro .flash p {
+  text-transform: uppercase;
+  font-size: 22px;
+}
+
+/* line 3510, /tmp/build_3sojg6lzj8qmu/apphttp://durex.herokuapp.com/assets/stylesheets/style.css.scss */
+.fontface .en-gb body.create_intro .intro .flash p {
+  left: 94px;
+}
+
+/* line 3514, /tmp/build_3sojg6lzj8qmu/apphttp://durex.herokuapp.com/assets/stylesheets/style.css.scss */
+.fontface .en-gb body.create_intro .tools .flash p {
+  left: 16px;
+}
+
+
+
+/* line 3617, /tmp/build_3sojg6lzj8qmu/apphttp://durex.herokuapp.com/assets/stylesheets/style.css.scss */
+.fontface body.lang-en .features li, .fontface body.create_intro.lang-en .flash p {
+  font-family: 'HELVHANDFULL2Medium',  Arial,  Helvetica,  sans-serif;
+  font-weight: normal !important;
+  letter-spacing: 1px !important;
+}
+
+/* line 3622, /tmp/build_3sojg6lzj8qmu/apphttp://durex.herokuapp.com/assets/stylesheets/style.css.scss */
+.fontface .en-gb .features .feature-1 {
+  top: 36px;
+}
+
+/* line 3625, /tmp/build_3sojg6lzj8qmu/apphttp://durex.herokuapp.com/assets/stylesheets/style.css.scss */
+.fontface .en-gb .features .feature-2 {
+  left: 160px;
+}
+
+/* line 3628, /tmp/build_3sojg6lzj8qmu/apphttp://durex.herokuapp.com/assets/stylesheets/style.css.scss */
+.fontface .en-gb body.create_intro .flash p {
+  text-transform: uppercase;
+  font-size: 22px;
+}
+
+/* line 3632, /tmp/build_3sojg6lzj8qmu/apphttp://durex.herokuapp.com/assets/stylesheets/style.css.scss */
+.fontface .create_intro.en-gb .intro .flash p {
+  left: 94px;
+}
+
+/* line 3635, /tmp/build_3sojg6lzj8qmu/apphttp://durex.herokuapp.com/assets/stylesheets/style.css.scss */
+.fontface .create_intro.en-gb .tools .flash p {
+  left: 16px;
+}

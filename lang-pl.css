@@ -1,0 +1,198 @@
+/* ****** POLISH */
+
+.lang-pl nav.main {
+top: 23px;
+}
+
+.lang-pl .search {
+margin-left:24%;
+}
+
+.lang-pl nav.main ul li {
+font-weight: bold;
+font-size: 14px;
+}
+
+.lang-pl .lost-id-list {
+top:22px;
+}
+
+.lang-pl .lost-id p {
+position: absolute;
+bottom: 14px;
+left: 3px;
+line-height: 100%;
+}
+
+.lang-pl .gallery .entry .cover p {
+padding: 0 33% 0 3%;
+}
+
+
+/* - Splash */
+.lang-pl.splash .features .feature-1 {
+top: 39px;
+font-size: 18px;
+left:12px;
+line-height: 110%;
+}
+
+.lang-pl.splash .features .feature-2 {
+top: 75px;
+left:152px;
+}
+
+.lang-pl.splash .features .feature-3 {
+top: 50px;
+font-size:14px;
+line-height: 100%;
+}
+
+
+
+
+/* - Gallery */
+.lang-pl nav.main ul li a {
+padding: 10px 5px 15px 5px;
+}
+
+.lang-pl .features .feature-1 {
+left:16px;
+}
+
+.lang-pl .features .feature-2 {
+font-size:15px;
+top:74px;
+}
+
+.lang-pl .features .feature-2 {
+left: 155px;
+}
+
+.lang-pl .features .feature-3 span {
+font-size:22px;
+}
+
+.lang-pl .features .feature-3 {
+top:56px;
+}
+
+.lang-pl .countdown {
+bottom:-83px;
+}
+
+.lang-pl.home .countdown {
+width: 158px;
+}
+
+.lang-pl.home div.lower div.last > a {
+left: 0px;
+}
+
+.lang-pl .gallery .entry .star {
+font-size:12px;
+line-height: 140%;
+}
+
+.lang-pl .gallery li p.tip { 
+bottom:-134px;
+}
+
+
+/* Stars flashes */
+.lang-pl.winners-gallery .features .feature-1 {
+font-size:16px;
+top:41px;
+left:13px;
+}
+
+.lang-pl.winners-gallery .features .feature-2 {
+font-size: 13px;
+top: 76px;
+}
+
+.lang-pl.winners-gallery .features .feature-3 span {
+font-size: 20px;
+}
+
+.lang-pl.winners-gallery .features .feature-3 {
+font-size: 14px;
+}
+
+
+
+/* - Create intro */
+.lang-pl .fontface body.create_intro .flash p {
+font-size:17px;
+}
+
+.lang-pl.create_intro .intro .flash p {
+top:41px !important;
+}
+
+.lang-pl.create_intro .tools .flash p {
+top:43px !important;
+}
+
+
+/* - About */
+.lang-pl.about h1.tear-fade {
+font-size: 24px;
+padding: 21px 10px 35px 20px;
+}
+
+.lang-pl.about .grand-prize .blue .star p {
+font-size:30px;
+top:55px;
+}
+
+.lang-pl.about .grand-prize .grid_6 img.arrow {
+right: 4%;
+}
+
+/* Submitted */
+.lang-pl .submitted-design .star p {
+top: 42px;
+font-size: 19px;
+}
+
+
+.lang-pl.confirmation .features .feature-1 {
+width: 85px;
+font-size:15px;
+top:41px;
+left:15px;
+}
+
+.lang-pl.confirmation .features .feature-3 {
+font-size: 15px;
+line-height: 100%;
+}
+
+.lang-pl.confirmation h2.tear-fade {
+padding: 22px 10px 35px 20px;
+font-size: 19px;
+}
+
+
+/* - Generic */
+.lang-pl p.button a {
+padding: 12px 20px 12px 12px;
+font-size: 17px;
+}
+
+.lang-pl .gallery .entry .cover p {
+left:14px;
+font-size:23px;
+}
+
+.lang-pl .content .share p { 
+font-size: 16px;
+padding-bottom: 15px;
+width: 146px;
+}
+
+
+
+
+

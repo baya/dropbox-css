@@ -1,0 +1,222 @@
+/** ***** HUNGARIAN ****** /
+
+
+/* Generic */
+
+.lang-hu .search {
+margin-left:23%;
+}
+
+.lang-hu nav.main ul li {
+font-size: 13px;
+}
+
+.lang-hu nav.main ul li#nav1 {
+position: relative;
+top:10px;
+}
+
+.lang-hu nav.main ul li#nav1 a {
+padding:10px 15px 0px 10px;
+}
+
+
+.lang-hu .gallery .entry .star {
+font-size:11px;
+}
+
+.lang-hu .star span span {
+margin-bottom: 5px;
+}
+
+
+.lang-hu .gallery .entry .cover p {
+font-size: 17px;
+}
+
+/* Splash */
+.lang-hu.splash .features .feature-1 {
+top:35px;
+} 
+
+.lang-hu.splash .features .feature-2 {
+font-size:15px;
+}
+
+.lang-hu.splash .content .features .feature-3 {
+font-size: 13px;
+top: 61px;
+}
+
+
+
+
+/* Home */
+
+.lang-hu .lost-id p {
+position: absolute;
+bottom: 24px;
+left: 3px;
+line-height: 80%;
+}
+
+.lang-hu .lost-id p a {
+font-size: 11px;
+}
+
+.lang-hu .lost-id-list {
+top:18px;
+}
+
+/* !! */
+body.lang-hu.home .gallery div > p {
+font-size: 12px;
+
+}
+
+/* !! */
+.csstransforms body.home.lang-hu div.lower a p {
+right: 26px;
+top: 7px;
+}
+
+/* !! */
+body.home.lang-hu div.gallery > a {
+left: 19px;
+bottom:51px;
+}
+
+body.home.lang-hu div.lower a p {
+right: 39px;
+}
+
+body.home.lang-hu div.lower div.last > a p {
+top:6px;
+right:21px;
+}
+
+.csstransforms body.home.lang-hu div.lower div.last > a p {
+left:-5px;
+}
+
+/* Create intro */
+
+.lang-hu.create_intro .intro .flash p {
+left: 94px;
+font-size: 13px;
+}
+
+.lang-hu.create_intro .tools .flash p {
+top: 42px;
+font-size: 12px;
+}
+
+
+/* Gallery */
+.lang-hu.winners-gallery nav.sub ul li {
+font-size:13px;
+}
+
+.lang-hu.winners-gallery .features .feature-1 {
+font-size:13px;
+line-height: 100%;
+top:46px;
+}
+
+.lang-hu.winners-gallery .features .feature-2 {
+font-size: 13px;
+top:73px;
+}
+
+.lang-hu.winners-gallery .features .feature-3 {
+font-size: 17px;
+}
+
+
+
+.lang-hu.winners-gallery form.filter h3 {
+float:none;
+margin-bottom:25px;
+}
+
+.ie7 .lang-hu.winners-gallery form.filter h3,
+.ie8 .lang-hu.winners-gallery form.filter h3 {
+float:none;
+margin-bottom:15px;
+}
+
+.ie8 .lang-hu.winners-gallery form.filter,
+.ie7 .lang-hu.winners-gallery form.filter {
+padding: 18px 5px 10px 20px;
+}
+
+
+.lang-hu.winners-gallery .countdown {
+bottom: -70px;
+}
+
+.lang-hu .gallery li p.tip {
+font-size: 14px;
+bottom:-131px;
+}
+
+/* About */
+
+.lang-hu.about .tear-fade {
+padding: 24px 10px 35px 20px;
+font-size: 18px;
+}
+
+
+.lang-hu.about .finalists-summary .green.col .star p {
+padding-top: 41px;
+}
+
+.lang-hu.about .finalists-summary .yellow.col .star p {
+padding-top: 32px;
+font-size:20px;
+}
+
+.lang-hu.about .finalists-summary .pink.col .star p {
+width:100px;
+padding-top: 34px;
+}
+
+.lang-hu.about .grand-prize .blue .star p {
+width: 150px;
+margin: 0 auto;
+position: relative;
+top: 62px;
+}
+
+.lang-hu.about .grand-prize .grid_6 .button {
+width: 85%;
+}
+
+
+/* Naked World */
+.lang-hu.naked_world .gallery .entry .cover p {
+font-size:18px;
+left:10px;
+}
+
+
+/* Create confirm form */
+
+.lang-hu.confirmation .features .feature-1 {
+font-size:13px;
+top:45px;
+left:16px;
+}
+
+
+.lang-hu.confirmation .features .feature-2 {
+font-size:14px;
+}
+
+
+.lang-hu.confirmation .features .feature-3 {
+font-size:18px;
+left:276px;
+}
+

@@ -1,0 +1,194 @@
+/* Italian */
+
+
+/* Generic */
+.lang-it .search {
+margin-left:8%;
+}
+
+.lang-it p.button a {
+font-size: 15px;
+}
+
+.lang-it .content .share p {
+font-size: 15px;
+}
+
+/* Splash */
+
+.lang-it.splash .content .features .feature-2 {
+top: 77px;
+left: 156px;
+font-size: 12px;
+}
+
+.lang-it.splash .content .features .feature-3 {
+top: 48px;	
+}
+
+/* Home */
+
+.lang-it.home .intro p {
+font-size: 14px;
+}
+
+.lang-it.home .gallery h3 {
+font-size: 20px;
+} /* http://pbrg.es/EHwH */
+
+.lang-it.home .countdown {
+width: 156px;
+}
+
+
+.lang-it.home div.lower div.last > a {
+left: -21px;
+}
+
+/* create_intro */
+/* Stars */
+.lang-it.create_intro .intro .flash p {
+left: 94px;
+top: 37px;
+font-size:13px;
+}
+
+.lang-it.create_intro .tools .flash p {
+top: 42px;
+font-size: 12px;
+}
+
+/* Gallery */
+.lang-it.winners-gallery .features .feature-1 {
+left: 14px;
+top: 44px;
+font-size: 17px;
+}
+
+.lang-it.winners-gallery .features .feature-2 {
+top: 74px;
+}
+
+.lang-it.winners-gallery .features .feature-3 {
+top: 58px;
+font-size: 13px;
+}
+
+.lang-it.winners-gallery .countdown {
+bottom: -77px;
+}
+
+.lang-it.winners-gallery nav.sub ul li {
+font-size: 14px;
+}
+
+.lang-it.winners-gallery .gallery li p.tip {
+font-size: 16px;
+}
+
+
+/* About */
+/* Stars */
+
+
+.lang-it.about .finalists-summary .green .star p {
+font-size:15px;
+}
+
+.lang-it.about .finalists-summary .green .star p span {
+font-size: 43px;
+margin: 16px 0;
+
+}
+
+
+
+.lang-it.about .finalists-summary .yellow .star p span {
+margin-top:12px;
+}
+
+.lang-it.about .finalists-summary .pink .star p {
+font-size: 17px;
+padding-top:30px;
+}
+
+.lang-it.about .finalists-summary .pink .star p span {
+margin:17px 0;
+}
+
+.lang-it.about .grand-prize .blue .star p {
+font-size: 29px;
+top:56px;
+}
+
+/* Quick fix - hide iamges */
+.lang-it.about .grand-prize img {
+display: none;
+}
+
+.lang-it.about .grand-prize img.arrow {
+display: inline;
+}
+.lang-it .also_pocket { display:none }
+
+/* Create confirmation */
+
+.lang-it.confirmation .features .feature-1 {
+left: 15px;
+top: 41px;
+font-size: 13px;
+}
+
+.lang-it.confirmation .features .feature-2 {
+left: 155px;
+font-size: 15px;
+}
+
+
+.lang-it.features .feature-3 span {
+font-size: 27px;
+}
+
+.lang-it.confirmation .features .feature-3 {
+top: 52px;
+font-size: 12px;
+}
+
+.lang-it.confirmation .submitted-design .star p {
+font-size: 19px;
+top: 39px;
+}
+
+/* Naked world */
+
+lang-it.naked_world .intro h1 {
+font-size: 26px;
+}
+
+
+/* -- FACEBOOK */
+@media only screen and (max-width:775px) {
+/* ======================================================== */
+
+.lang-it nav.main ul li {
+font-size: 13px;
+}
+
+.lang-it nav.sub ul li {
+font-size: 9px;
+}
+
+.lang-it.winners-gallery nav.sub ul li {
+font-size: 9px;
+}
+
+/* ======================================================== */
+}
+
+
+.lang-it .apple_disclaimer,
+.lang-it .rb_optin_container,
+.lang-it .winners p.right.link,
+.lang-it.winners-gallery .intro p {
+display: none;
+}

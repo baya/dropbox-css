@@ -1,0 +1,159 @@
+@import url("quick-fixes.css");
+@import url("lang-pl.css");
+@import url("lang-el.css");
+@import url("lang-ro.css");
+@import url("lang-tr.css");
+@import url("lang-hu.css");
+@import url("lang-de.css");
+@import url("lang-it.css");
+@import url("lang-cz.css");
+@import url("lang-bg.css");
+@import url("lang-he.css");
+@import url("lang-sr.css");
+
+
+/* Move to main */
+
+/* hide nav for browsers all small */
+@media only screen and (max-width:500px) {
+
+	nav.main ul {
+	display: none
+	}
+
+
+	nav.main select {
+	display: block;
+	z-index: 9999;
+	position: relative;
+	top: 50px;
+	}
+
+	.search {
+	width:75%;
+	}
+
+.lost-id {
+position: static;
+margin-right:20px;
+}	
+
+}
+
+
+
+/* handle nav breakdown */
+@media handheld, only screen and (max-width: 1023px) {
+
+/* ====================================== */
+/* smaller nav */
+nav.main ul li {
+font-size:13px;
+}
+
+nav.main ul li a {
+padding: 8px 5px 15px 5px;
+}
+
+#nav1{width:65px;}
+#nav2{width:90px;}
+#nav3{width:75px;}
+#nav4{width:95px;}
+#nav5{width:85px;}
+
+
+/* -- */
+
+.search {
+margin-left: 0%;
+}
+
+.search label {
+font-size: 12px;
+}
+
+.search input[type="search"] {
+width: 65%;
+}
+
+p {font-size:12px;}
+
+p.button a {
+font-size: 16px;
+}
+
+
+.winners-gallery .intro p {
+padding-right: 45px;
+}
+
+
+
+
+
+}
+
+
+/* Breakdown */
+@media handheld, only screen and (max-width: 767px) {
+
+.lang-pl div.content {
+padding-bottom:20px;
+}
+
+
+/* German Breakdown */
+.lang-de .search {
+margin-left: 5%;
+}
+
+.lang-de .search label {
+font-size: 12px;
+}
+
+.lang-de nav.sub ul li {
+font-size: 13px;
+}
+
+.lang-de.winners-gallery .gallery .entry .cover p {
+font-size: 18px;
+}
+
+
+
+.lang-de.confirmation .tear-fade {
+font-size:19px;
+}
+
+
+/* HU */
+.lang-hu nav.sub ul li {
+font-size: 10px;
+}
+
+
+
+
+
+
+
+body.create_intro .tools .flash {
+right:0;
+}
+
+
+body.create_intro .intro .flash {
+left:0px;
+}
+
+nav.main ul li {
+font-weight: bold;
+font-size: 14px;
+}
+
+/* ====================================== */
+}
+
+
+
+/* END MOVE TO MAIN */

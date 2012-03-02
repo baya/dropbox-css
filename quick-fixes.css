@@ -1,0 +1,59 @@
+/* Quick fixes to merge later */
+/*
+========================================================
+PHONE LANDSCAPE
+========================================================
+*/
+@media screen and (max-device-width:480px) and (orientation:landscape) {
+/* -------------------------- */
+
+/* -------------------------- */
+}
+
+
+
+/*
+========================================================
+PHONE PORTRAIT
+========================================================
+*/
+@media screen and (max-device-width:480px) and (orientation:portrait) {
+/* ------------------------ */
+
+/* Splash */
+.splash .content .form-wrapper {
+margin-left:0%;
+}
+
+/* Home */
+body.home .naked-world {
+    width:250px;
+    position: relative;
+    top:30px;
+}
+
+
+body.home.lang-el div.lower div.last > a p {
+top: 26px;
+}
+
+body.home.lang-el div.lower a p {
+top: 45px;
+}
+
+
+/* -------------------------- */
+}
+
+
+/*
+========================================================
+PHONE LANDSCAPE
+========================================================
+*/
+@media screen and (max-device-width:480px) and (orientation:landscape) {
+/* ------------------------ */
+
+
+/* ------------------------ */
+}

@@ -1,0 +1,244 @@
+/* Turkish */
+
+/* Generic */
+
+.lang-tr nav.main ul li {
+font-size: 12px;
+}
+
+.lang-tr nav.main ul li a {
+padding: 10px 15px 27px 10px;
+}
+
+.lang-tr .search {
+top:30px;
+margin-left:3%;
+}
+
+.lang-tr nav.main {
+top:23px;
+}
+
+.lang-tr nav.main ul li#nav3 a,
+.lang-tr nav.main ul li#nav4 a,
+.lang-tr nav.main ul li#nav1 a {
+padding:10px 15px 5px 10px;
+}
+
+.lang-tr nav.main ul li#nav3,
+.lang-tr nav.main ul li#nav4,
+.lang-tr nav.main ul li#nav1 {
+position: relative;
+top:21px;
+}
+
+.lang-tr .lost-id {
+top:38px;
+}
+
+/* Splash */
+.lang-tr.splash .features .feature-1 {
+top: 39px;
+font-size: 13px;
+}
+
+.lang-tr.splash .content .features .feature-2 {
+top: 72px;
+font-size:15px;
+}
+
+.lang-tr.splash .features .feature-3 {
+line-height: 100%;
+}
+
+.lang-tr.splash .content .features .feature-3 {
+top: 57px;
+left: 268px;
+}
+
+
+/* About */
+
+.lang-tr .tear-fade {
+padding: 24px 10px 30px 20px;
+font-size: 17px;
+}
+
+/* About stars */
+
+.lang-tr.about .finalists-summary .col .star p {
+font-size:19px;
+}
+
+.lang-tr.about .finalists-summary .green.col .star p {
+padding-top: 34px;
+}
+
+
+.lang-tr.about .grand-prize .blue .star p {
+top: 48px;
+}
+
+.lang-tr.about .finalists-summary .star p span {
+margin-bottom: 15px;
+}
+
+.lang-tr.about .finalists-summary .pink.col .star p {
+width: 60px;
+margin: 0 auto;
+padding-top:45px;
+}
+
+.lang-tr.about .covering img {
+top: -31px;
+}
+
+/* Create intro */
+
+.lang-tr.create_intro .tools .flash p {
+top:40px;
+}
+
+.lang-tr.create_intro .intro .flash p {
+font-size:13px;
+top:38px;
+left:92px;
+}
+
+
+
+/* Gallery */
+.lang-tr .features .feature-1 {
+top: 45px;
+font-size: 17px;
+line-height:100%;
+}
+
+.lang-tr .features .feature-3 {
+width: 105px;
+font-size: 16px;
+top:50px;
+}
+
+.lang-tr .features .feature-3 span {
+font-size: 25px;
+}
+
+.lang-tr .countdown {
+bottom: -75px;
+}
+
+.lang-tr .gallery .entry .cover p {
+top: 40px;
+left: 9px;
+}
+
+.lang-tr .gallery li p.tip {
+bottom:-147px;
+}
+
+/* Naked World */
+.lang-tr.naked_world .gallery .entry .cover p {
+font-size:22px;
+}
+
+.lang-tr.naked_world .gallery li p.tip {
+bottom:-155px;
+z-index: 999;
+}
+
+
+body.lang-tr.home div.lower div.last > a {
+left: -8px;
+}
+
+
+/* Create confirmation */
+
+.lang-tr.confirmation .features .feature-1 {
+font-size:20px;
+left:16px;
+}
+
+.lang-tr.confirmation .features .feature-2 {
+font-size:15px;
+top:78px;
+}
+
+
+.lang-tr.confirmation .features .feature-3 {
+left:269px;
+top:59px;
+}
+
+.lang-tr.confirmation .submitted-design .star p {
+font-size: 18px;
+top: 49px;
+}
+
+
+
+
+
+
+
+@media handheld, only screen and (max-width: 767px) {
+/* ----------------------- */
+
+.lang-tr nav.main ul li {
+font-weight: bold;
+font-size: 11px;
+}
+
+
+/* ----------------------- */
+}
+
+
+/* -- FACEBOOK */
+@media only screen and (max-width:775px) {
+/* ======================================================== */
+
+.lang-tr .search {
+top:147px;
+}
+
+.lang-tr .lost-id {
+top: 197px;
+}
+
+.lang-tr nav.main ul li#nav3, .lang-tr nav.main ul li#nav4, .lang-tr nav.main ul li#nav1 {
+top: 33px;
+}
+
+.lang-tr nav.main ul li#nav5 {
+top: 16px;
+position: relative;
+}
+
+.lang-tr nav.sub ul li {
+font-size: 11px;
+}
+
+.lang-tr.winners-gallery .features .feature-3 {
+left: 268px;
+}
+
+.lang-tr .naked_world .gallery .entry {
+width:32%;
+}
+
+.lang-tr .gallery-more .row p {
+margin-left: 17px;
+}
+
+/* ======================================================== */
+}
+
+
+
+
+
+
+
+

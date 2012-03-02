@@ -1,0 +1,193 @@
+@media screen and (max-device-width:480px) {
+  /* line 3004, /tmp/build_3sojg6lzj8qmu/apphttp://durex.herokuapp.com/assets/stylesheets/style.css.scss */
+   
+  /* !! */
+  /*
+nav.main {
+    top: 0;
+    margin-top: 25px;
+  }
+*/
+
+  /* line 3009, /tmp/build_3sojg6lzj8qmu/apphttp://durex.herokuapp.com/assets/stylesheets/style.css.scss */
+  p.link {
+    float: none;
+    display: none;
+  }
+
+  /* line 3020, /tmp/build_3sojg6lzj8qmu/apphttp://durex.herokuapp.com/assets/stylesheets/style.css.scss */
+  nav.main ul,
+  .lost-id,
+  .features,
+  .winners-gallery .features,
+  .gallery-more div.tear,
+  p.tip,
+  form.filter input[type="image"] {
+    display: none;
+  }
+
+  /* line 3024, /tmp/build_3sojg6lzj8qmu/apphttp://durex.herokuapp.com/assets/stylesheets/style.css.scss */
+  /* !! */
+  .logo {
+    margin-top: 0px;
+    /* !! */
+    /* Make room for drop nav */
+    margin-bottom: 60px;
+  }
+
+/* !! */
+/* There is no nav on the splash page so no need to make so much room for it */
+.splash .logo {
+margin-bottom:15px;
+}
+
+/* !! */
+.home #static_logo {
+margin-bottom: 0;
+}
+
+/* !! */
+body.home .intro {
+margin-top:0;
+}
+
+
+  /* line 3029, /tmp/build_3sojg6lzj8qmu/apphttp://durex.herokuapp.com/assets/stylesheets/style.css.scss */
+ /* !! */
+  nav.main select {
+    display: block;
+    position: absolute;
+    z-index: 9998;
+  }
+
+  /* show mobile nav */
+  /* Move dropdown underneath logo */
+  /* line 3041, /tmp/build_3sojg6lzj8qmu/apphttp://durex.herokuapp.com/assets/stylesheets/style.css.scss */
+  form.filter {
+    background: #569ed3;
+    padding: 15px 5px 1px 10px;
+  }
+
+
+/* !! */
+form.filter div span:first-child p {
+display: inline;
+}
+
+  /* line 3269, /tmp/build_3sojg6lzj8qmu/apphttp://durex.herokuapp.com/assets/stylesheets/style.css.scss */
+  /* !! */
+  form.filter div span {
+    width: 70%;
+    float: none;
+    display: block;
+    margin-bottom: 8px;
+  }
+
+
+/* !! */
+body.winners-gallery .countdown {
+bottom:0;
+}
+
+  /* line 3047, /tmp/build_3sojg6lzj8qmu/apphttp://durex.herokuapp.com/assets/stylesheets/style.css.scss */
+  .search {
+    width: 75%;
+    -webkit-transform: rotate(0deg);
+    -moz-transform: rotate(0deg);
+    -ms-transform: rotate(0deg);
+    -o-transform: rotate(0deg);
+    display: none;
+  }
+
+  /* line 3061, /tmp/build_3sojg6lzj8qmu/apphttp://durex.herokuapp.com/assets/stylesheets/style.css.scss */
+  form.filter h3,
+  form.filter div,
+  form.filter p, form.filter select {
+    float: none;
+  }
+
+  /* line 3065, /tmp/build_3sojg6lzj8qmu/apphttp://durex.herokuapp.com/assets/stylesheets/style.css.scss */
+  form.filter p {
+    display: inline;
+  }
+
+  /* line 3068, /tmp/build_3sojg6lzj8qmu/apphttp://durex.herokuapp.com/assets/stylesheets/style.css.scss */
+  form.filter div span,
+  form.filter input[type="submit"] {
+    display: block;
+    margin-bottom: 15px;
+  }
+
+  /* line 3074, /tmp/build_3sojg6lzj8qmu/apphttp://durex.herokuapp.com/assets/stylesheets/style.css.scss */
+  footer.main nav li {
+    float: none;
+    background: none;
+  }
+
+  /* line 3080, /tmp/build_3sojg6lzj8qmu/apphttp://durex.herokuapp.com/assets/stylesheets/style.css.scss */
+ /* !! */
+  .splash .content {
+    padding-bottom: 30px;
+  }
+
+
+
+
+/* !! */
+/* Need to undo some Facebook stuff here */
+body.home #static_logo {
+    float: none;
+    width:99%;
+}
+
+body.home #static_logo img {
+width: 60%;
+}
+
+/* !! */
+body.home .intro {
+    float: none;
+    position: relative;
+    width: auto;
+    z-index: 9999;
+}
+
+/* !! */
+body.home .grid_4 p.button {
+    float: none !important;
+    width: 85% !important;
+/* Not overriding FB rules for some reason - important for now */
+display: none;
+}
+
+/* Naked World */
+/* !! */
+
+/* !! */
+.naked_world form.filter p {
+float: none;
+clear: both;
+
+}
+
+/* !! */
+.naked_world form.filter {
+text-align: center;
+padding:5px;
+}
+
+/* !! */
+.naked_world form.filter p, .naked_world form.filter select {
+text-align: center;
+    float: none;
+    display: block;
+}
+
+/* !! */
+.naked_world .intro h1 {
+  margin-top: 10px;
+}
+
+
+  /* ----------- */
+}

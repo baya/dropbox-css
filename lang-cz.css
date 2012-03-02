@@ -1,0 +1,194 @@
+/* Czech  */
+
+/* Generic */
+
+.lang-cz .search {
+top:18px;
+margin-left:13%;
+}
+
+.lang-cz .lost-id p {
+position: absolute;
+bottom: 24px;
+left: 3px;
+line-height: 80%;
+}
+
+.lang-cz .lost-id {
+width:80px;
+top:34px;
+}
+
+.lang-cz .lost-id p a {
+font-size: 11px;
+}
+
+.lang-cz .lost-id-list {
+top:18px;
+}
+
+.lang-cz p.button a {
+/*
+padding: 7px 30px 12px 12px;
+font-size: 13px;
+*/
+}
+
+.lang-cz .content .share p {
+font-size: 15px;
+}
+
+/* Nav */
+
+.lang-cz nav.main {
+top: 30px;
+}
+
+.lang-cz nav.main ul li {
+font-size: 11px;
+}
+
+.lang-cz nav.main ul li a {
+padding: 10px 15px 9px 10px;
+}
+
+.lang-cz nav.main ul li#nav5 a {
+padding: 10px 15px 1px 10px;
+}
+
+.lang-cz nav.main ul li#nav5 {
+position: relative;
+top:10px;
+}
+
+
+/* Splash */
+.lang-cz.splash .features .feature-1 {
+width: 90px;
+height: 55px;
+left: 12px;
+top: 33px;
+font-size: 16px;
+}
+
+.lang-cz.splash .content .features .feature-2 {
+top: 75px;
+left: 155px;
+font-size: 13px;
+}
+
+/* create intro */
+
+.lang-cz.create_intro .intro .flash p {
+left: 94px;
+top: 42px;
+font-size: 11px;
+}
+
+
+.lang-cz.create_intro .tools .flash p {
+top: 39px;
+font-size: 15px;
+}
+
+
+/* Winners gallery stars */
+.lang-cz.winners-gallery .features .feature-1 {
+left: 15px;
+top: 46px;
+font-size: 16px;
+}
+
+.lang-cz.winners-gallery .features .feature-2 {
+top: 76px;
+font-size: 13px;
+left: 155px;
+}
+
+.lang-cz.features .feature-3 span {
+font-size: 14px;
+line-height: 100%;
+}
+
+.lang-cz .features .feature-3 {
+top:50px;
+}
+
+.lang-cz .gallery li p.tip {
+font-size: 17px;
+}
+
+/* Galleries */
+.lang-cz .gallery .entry .cover p {
+font-size: 18px;
+}
+
+/* About */
+.lang-cz.about .tear-fade {
+padding: 25px 10px 35px 20px;
+font-size: 15px;
+}
+
+.lang-cz.about h4.tear-fade {
+font-size: 20px;
+}
+
+.lang-cz.about .finalists-summary .green.col .star p {
+padding-top: 29px;
+}
+
+.lang-cz.about .finalists-summary .yellow.col .star p {
+font-size: 17px;
+padding-top: 14px;
+}
+
+.lang-cz.about .finalists-summary .yellow.col .star p span {
+font-size: 40px;
+margin: 9px 0;
+}
+
+.lang-cz.about .finalists-summary .pink.col .star p {
+width: 120px;
+font-size:17px;
+padding-top:48px;
+}
+
+.lang-cz.about .finalists-summary .pink .star p span {
+margin-top: 5px;
+font-size:21px;
+}
+
+.lang-cz.about .grand-prize .blue .star p {
+top: 47px;
+}
+
+
+/* Create confirmation */
+
+.lang-cz.confirmation .features .feature-1 {
+left: 15px;
+top: 39px;
+font-size: 15px;
+}
+
+.lang-cz.confirmation .features .feature-2 {
+top:77px;
+font-size: 13px;
+}
+
+
+.lang-cz.confirmation .features .feature-3 {
+top:58px;
+}
+
+
+.lang-cz.confirmation .features .feature-3 span {
+font-size: 17px;
+
+}
+
+.lang-cz.confirmation .submitted-design .star p {
+
+}
+
+

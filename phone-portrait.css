@@ -1,0 +1,459 @@
+@media screen and (max-device-width:480px) and (orientation:portrait) {
+  /* ------------------------ */
+ 
+ /* !! */
+ .logo {
+ width:60%;
+ }
+ 
+  /* -- Gallery */
+  /* line 3233, /tmp/build_3sojg6lzj8qmu/apphttp://durex.herokuapp.com/assets/stylesheets/style.css.scss */
+
+  /* line 3237, /tmp/build_3sojg6lzj8qmu/apphttp://durex.herokuapp.com/assets/stylesheets/style.css.scss */
+  input[type='submit'] {
+    margin-top: 20px;
+  }
+
+  /* Rearrange tab nav */
+  /* line 3245, /tmp/build_3sojg6lzj8qmu/apphttp://durex.herokuapp.com/assets/stylesheets/style.css.scss */
+  .winners div.tear {
+    display: none;
+  }
+
+  /* line 3249, /tmp/build_3sojg6lzj8qmu/apphttp://durex.herokuapp.com/assets/stylesheets/style.css.scss */
+  nav.sub ul li {
+    float: none;
+    width: 100%;
+    font-size: 14px;
+    margin-bottom: 1px;
+  }
+
+  /* line 3256, /tmp/build_3sojg6lzj8qmu/apphttp://durex.herokuapp.com/assets/stylesheets/style.css.scss */
+  nav.sub ul li.ui-state-active {
+    margin-bottom: 1px;
+    position: relative;
+    bottom: 1px;
+  }
+
+  /* line 3261, /tmp/build_3sojg6lzj8qmu/apphttp://durex.herokuapp.com/assets/stylesheets/style.css.scss */
+  nav.sub ul {
+    margin-bottom: 15px;
+  }
+
+
+  /* line 3278, /tmp/build_3sojg6lzj8qmu/apphttp://durex.herokuapp.com/assets/stylesheets/style.css.scss */
+  nav.sub ul li a {
+    -webkit-transform: rotate(0deg);
+    -moz-transform: rotate(0deg);
+    -ms-transform: rotate(0deg);
+    -o-transform: rotate(0deg);
+  }
+
+  /* line 3285, /tmp/build_3sojg6lzj8qmu/apphttp://durex.herokuapp.com/assets/stylesheets/style.css.scss */
+  .gallery li p.tip {
+    left: -40px;
+    bottom: -40px;
+  }
+
+  /* line 3291, /tmp/build_3sojg6lzj8qmu/apphttp://durex.herokuapp.com/assets/stylesheets/style.css.scss */
+  .gallery .entry {
+    width: 45%;
+    margin-right: 2%;
+    height: 230px;
+  }
+
+
+  /* Home */
+  
+  /* !! */
+  nav.main select {
+    top: 170px !important;
+    left: 0px;
+}
+
+
+/* !! */
+body.home .content {
+    padding-bottom: 50px;
+}
+
+/* !! */
+body.home div.gallery {
+    margin-bottom: 0;
+    width: auto;
+}
+
+
+  /* line 3306, /tmp/build_3sojg6lzj8qmu/apphttp://durex.herokuapp.com/assets/stylesheets/style.css.scss */
+  body.home .gallery h3 {
+    float: none;
+    width: auto;
+  }
+
+  /* line 3311, /tmp/build_3sojg6lzj8qmu/apphttp://durex.herokuapp.com/assets/stylesheets/style.css.scss */
+  body.home .gallery p {
+    font-weight: bold;
+    font-size: 14px;
+    color: #32353A;
+    float: none;
+    margin: 0;
+    line-height: 100%;
+    width: auto;
+  }
+
+  /* line 3321, /tmp/build_3sojg6lzj8qmu/apphttp://durex.herokuapp.com/assets/stylesheets/style.css.scss */
+  body.home .gallery p.more {
+    float: none;
+  }
+
+  /* line 3325, /tmp/build_3sojg6lzj8qmu/apphttp://durex.herokuapp.com/assets/stylesheets/style.css.scss */
+  body.home .gallery {
+    padding: 0;
+  }
+
+  /* line 3329, /tmp/build_3sojg6lzj8qmu/apphttp://durex.herokuapp.com/assets/stylesheets/style.css.scss */
+  body.home .gallery {
+    padding: 0;
+  }
+
+  /* line 3333, /tmp/build_3sojg6lzj8qmu/apphttp://durex.herokuapp.com/assets/stylesheets/style.css.scss */
+  body.home .gallery .entry {
+    margin-bottom: 0;
+    height: auto;
+  }
+
+  /* line 3338, /tmp/build_3sojg6lzj8qmu/apphttp://durex.herokuapp.com/assets/stylesheets/style.css.scss */
+  body.home .star {
+    right: 4%;
+  }
+
+  /* line 3342, /tmp/build_3sojg6lzj8qmu/apphttp://durex.herokuapp.com/assets/stylesheets/style.css.scss */
+  body.home .naked-world {
+     width: 80%;
+     
+  }
+
+
+/* !! */
+body.home .content .countdown {
+position: absolute;
+bottom:15px;
+left:10px;
+height:80px;
+ /* The relative positioning was pushing his off the side and causing a gap - so absolute has removed that */
+  }
+  
+  
+  /* !! */
+  body.winners-gallery .countdown {
+  left:-25px;
+  bottom:-15px;
+  }
+
+
+  /* line 3348, /tmp/build_3sojg6lzj8qmu/apphttp://durex.herokuapp.com/assets/stylesheets/style.css.scss */
+  body.home .lower .gallery {
+    margin-bottom: 0;
+    padding-bottom: 0;
+  }
+
+
+/* !! */
+body.home div.lower div.last > a {
+  position: relative;
+  left: -30px;
+  bottom: 30px;
+}
+
+/* !! */
+body.home div.lower .countdown {
+bottom:-35px;
+left:40px;
+}
+
+
+/* !! */
+body.home div.lower .gallery > a {
+bottom:-10px;
+}
+
+/* !! */
+body.home .grid_4 p.button {
+    float: right;
+    position: relative;
+    width: 45%;
+    z-index: 9999;
+}
+
+
+
+  /* line 3353, /tmp/build_3sojg6lzj8qmu/apphttp://durex.herokuapp.com/assets/stylesheets/style.css.scss */
+  body.home .lower {
+    margin-top: 0;
+  }
+
+  /* Intro */
+  /* line 3360, /tmp/build_3sojg6lzj8qmu/apphttp://durex.herokuapp.com/assets/stylesheets/style.css.scss */
+  body.create_intro .intro, body.create_intro .tools {
+    float: none;
+    width: 90%;
+  }
+
+  /* line 3366, /tmp/build_3sojg6lzj8qmu/apphttp://durex.herokuapp.com/assets/stylesheets/style.css.scss */
+  p.button a {
+    font-size: 16px;
+  }
+
+  /* line 3370, /tmp/build_3sojg6lzj8qmu/apphttp://durex.herokuapp.com/assets/stylesheets/style.css.scss */
+  body.create_intro p.button a img {
+    display: inline;
+  }
+
+  /* line 3375, /tmp/build_3sojg6lzj8qmu/apphttp://durex.herokuapp.com/assets/stylesheets/style.css.scss */
+  body.create_intro .content {
+    padding-bottom: 650px;
+  }
+
+  /* Dodgy / temporary solution - it goes longer and thinner in portrait mode */
+  /* Vote thanks */
+  /* line 3383, /tmp/build_3sojg6lzj8qmu/apphttp://durex.herokuapp.com/assets/stylesheets/style.css.scss */
+  .vote-thanks h1.tear-fade {
+    width: auto;
+    position: relative;
+    top: 0px;
+  }
+
+  /* line 3389, /tmp/build_3sojg6lzj8qmu/apphttp://durex.herokuapp.com/assets/stylesheets/style.css.scss */
+  .vote-thanks .voted div {
+    margin-left: 0;
+    margin-top: 15px;
+  }
+
+  /* line 3394, /tmp/build_3sojg6lzj8qmu/apphttp://durex.herokuapp.com/assets/stylesheets/style.css.scss */
+  form.enter-comp {
+    background-image: url("arrow-small-down-left.png") 75% -20px no-repeat;
+    position: relative;
+  }
+
+  /* Create details */
+  /* line 3403, /tmp/build_3sojg6lzj8qmu/apphttp://durex.herokuapp.com/assets/stylesheets/style.css.scss */
+  .submitted-design {
+    margin-left: 0;
+    margin-top: 15px;
+  }
+
+  /* Create details */
+  /* line 3411, /tmp/build_3sojg6lzj8qmu/apphttp://durex.herokuapp.com/assets/stylesheets/style.css.scss */
+  .create .content form label {
+    width: 40%;
+  }
+
+  /* line 3415, /tmp/build_3sojg6lzj8qmu/apphttp://durex.herokuapp.com/assets/stylesheets/style.css.scss */
+  .create .content form fieldset select {
+    display: block;
+    margin-bottom: 10px;
+  }
+
+  /* line 3421, /tmp/build_3sojg6lzj8qmu/apphttp://durex.herokuapp.com/assets/stylesheets/style.css.scss */
+  .submitted-design .star {
+    left: 160px;
+    top: -45px;
+  }
+
+  /* line 3427, /tmp/build_3sojg6lzj8qmu/apphttp://durex.herokuapp.com/assets/stylesheets/style.css.scss */
+  .create .content form .gender div {
+    float: left;
+    width: 70px;
+    position: relative;
+    left: 7%;
+  }
+
+  /* line 3434, /tmp/build_3sojg6lzj8qmu/apphttp://durex.herokuapp.com/assets/stylesheets/style.css.scss */
+  .create .content form h2.tear-fade {
+    font-size: 20px;
+  }
+
+  /* Splash page */
+  /* line 3441, /tmp/build_3sojg6lzj8qmu/apphttp://durex.herokuapp.com/assets/stylesheets/style.css.scss */
+  .splash .content .form-wrapper {
+    width: auto;
+  }
+
+  /* line 3446, /tmp/build_3sojg6lzj8qmu/apphttp://durex.herokuapp.com/assets/stylesheets/style.css.scss */
+  .splash .content form {
+    width: 80%;
+    padding: 10px 10px 10px 10px;
+    background-image: none;
+    background: #EEE;
+    border: 6px #FFF solid;
+    margin-top: 0px;
+  }
+
+  /* line 3456, /tmp/build_3sojg6lzj8qmu/apphttp://durex.herokuapp.com/assets/stylesheets/style.css.scss */
+  .splash .content form select {
+    width: auto;
+  }
+
+
+/* !! */
+	.about h1.tear-fade {width:auto}
+
+/* !! */
+.talk img {
+width:60px;
+top: 0px;
+left: 205px;
+}
+
+/* !! */
+.covering img {
+width:55px;
+top: 0px;
+left: 230px;
+
+}
+
+/* !! */
+.about .finalists-summary .green .star p {
+margin-left;
+left:15px;
+}
+
+/* !! */
+.about .finalists-summary .green .star,
+.about .finalists-summary .yellow .star,
+.about .finalists-summary .pink .star {
+background-size: 80px;
+width:80px;
+height:90px;
+}
+
+/* !! */
+.about .finalists-summary .col .star p {
+font-size:14px;
+width:60px;
+padding-top:14px;
+}
+
+/* !! */
+.about .finalists-summary .col.green .star p {
+margin-left:9px;
+font-size:13px;
+}
+
+/* !! */
+.about .finalists-summary .star p span {
+font-size:25px;
+margin-bottom:2px;
+}
+
+/* !! */
+.about .finalists-summary .yellow .star p,
+.about .finalists-summary .green .star p{
+top:2px;
+}
+
+/* !! */
+.about .finalists-summary .pink .star p span {
+margin-top:4px;
+}
+
+/* !! */
+.about .finalists-summary .green abbr {
+top:15px;
+font-size:19px;
+left:96%;
+}
+
+/* !! */
+.about .finalists-summary .arrow {
+width:60px;
+right:40px;
+top:-20px;
+}
+
+/* !! */
+.about .finalists-summary .pink {
+    bottom: 20px;
+    position: relative;
+}
+
+/* !! */
+.about .tear-fade {
+    margin-bottom: 5px;
+font-size:16px;
+padding: 20px 10px 35px 20px;
+}
+
+/* !! */
+.about .example .screenshot {
+width:275px;
+}
+
+/* !! */
+.about .use-or-upload .arrow {
+width:60px;
+}
+
+/* !! */
+.about .t-shirt {
+bottom:0;
+}
+
+/* !! */
+.about .grand-prize .grid_6 h4 {
+clear: both;
+margin-top:15px;
+}
+
+/* !! */
+.about .grand-prize .grid_6 .button {
+width:85%;
+display: none;
+
+}
+
+/* !! */
+.about .grid_5 .arrow {
+    position: absolute;
+    top: -10px;
+}
+
+/* !! */
+.about .grid_5 h3 {
+    margin-left: 50px;
+    width: 150px;
+}
+
+.about .grand-prize .blue .star {
+top:-30px;
+}
+
+
+
+/* Naked world */
+
+
+
+/* !! */
+.naked_world .intro h1 {
+    font-size: 20px;
+}
+/* !! */
+.naked_world form.filter select {
+margin-left:35px;
+}
+/* !! */
+.naked_world .gallery .entry {
+    width: 45%;
+    margin-right: 2%;
+    height: 240px;
+}
+/* !! */
+.chart li span.bar-count {
+width:47%;
+}
+
+  /* ------------------------ */
+} /* END PORTRAIT */
+

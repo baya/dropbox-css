@@ -1,0 +1,184 @@
+@media screen and (max-device-width:480px) and (orientation:landscape) {
+  /* Home */
+  /* Big logo on home */
+  /* line 3108, /tmp/build_3sojg6lzj8qmu/apphttp://durex.herokuapp.com/assets/stylesheets/style.css.scss */
+
+/* !! */
+nav.main select {
+    top: 195px !important;
+    left: 0px;
+}
+
+
+  body.home nav.main select {
+    top: 220px;
+  }
+
+
+
+  /* line 3112, /tmp/build_3sojg6lzj8qmu/apphttp://durex.herokuapp.com/assets/stylesheets/style.css.scss */
+  body.home .logo {
+    width: 60%;
+  }
+
+  /* !! */
+  .logo {
+  width:50%;
+}
+
+
+
+
+  /* Tabs */
+  /* line 3121, /tmp/build_3sojg6lzj8qmu/apphttp://durex.herokuapp.com/assets/stylesheets/style.css.scss */
+  nav.sub ul li {
+    margin-right: 3px;
+    font-size: 12px;
+  }
+
+  /* line 3126, /tmp/build_3sojg6lzj8qmu/apphttp://durex.herokuapp.com/assets/stylesheets/style.css.scss */
+  nav.sub ul li a {
+    padding: 10px 10px 15px 10px;
+  }
+
+  /* line 3130, /tmp/build_3sojg6lzj8qmu/apphttp://durex.herokuapp.com/assets/stylesheets/style.css.scss */
+  .gallery-more .row h3 {
+    margin-bottom: 15px;
+    font-size: 20px;
+  }
+
+  /* line 3134, /tmp/build_3sojg6lzj8qmu/apphttp://durex.herokuapp.com/assets/stylesheets/style.css.scss */
+  body.home .star {
+    right: 10px;
+  }
+
+  /* line 3139, /tmp/build_3sojg6lzj8qmu/apphttp://durex.herokuapp.com/assets/stylesheets/style.css.scss */
+  .weekly-winners-title .grid_7 p {
+    font-size: 12px;
+    font-weight: bold;
+    width: auto;
+    position: static;
+    top: 0;
+    left: 0;
+    padding-left: 0;
+    padding-bottom: 0;
+    background: none;
+    text-align: center;
+  }
+
+  /* line 3152, /tmp/build_3sojg6lzj8qmu/apphttp://durex.herokuapp.com/assets/stylesheets/style.css.scss */
+  .star {
+    left: 70px;
+    top: -27px;
+  }
+
+  /* line 3156, /tmp/build_3sojg6lzj8qmu/apphttp://durex.herokuapp.com/assets/stylesheets/style.css.scss */
+  /* !! */
+  .gallery .entry {
+    width: 28%;
+    margin-right: 2%;
+  }
+
+  /* line 3160, /tmp/build_3sojg6lzj8qmu/apphttp://durex.herokuapp.com/assets/stylesheets/style.css.scss */
+  .gallery .entry img {
+    width: 80%;
+  }
+
+  /* line 3164, /tmp/build_3sojg6lzj8qmu/apphttp://durex.herokuapp.com/assets/stylesheets/style.css.scss */
+  .gallery .entry .cover p {
+    font-size: 18px;
+    width: 50px;
+    left: 10px;
+  }
+
+  /* line 3171, /tmp/build_3sojg6lzj8qmu/apphttp://durex.herokuapp.com/assets/stylesheets/style.css.scss */
+  .gallery li p.tip {
+    left: -40px;
+    bottom: -120px;
+  }
+
+  /* line 3176, /tmp/build_3sojg6lzj8qmu/apphttp://durex.herokuapp.com/assets/stylesheets/style.css.scss */
+  .winners li.like {
+    float: none;
+    margin-left: 7%;
+  }
+
+  /* line 3183, /tmp/build_3sojg6lzj8qmu/apphttp://durex.herokuapp.com/assets/stylesheets/style.css.scss */
+ /* !! */
+  .countdown {
+    bottom: -70px;
+    left: -40px;
+  }
+  
+  ul.gallery .countdown {
+  bottom:-80px;
+  
+  }
+
+  /* -- Intro */
+  /* line 3192, /tmp/build_3sojg6lzj8qmu/apphttp://durex.herokuapp.com/assets/stylesheets/style.css.scss */
+  body.create_intro .tools {
+    padding-top: 36px;
+  }
+
+  /* line 3196, /tmp/build_3sojg6lzj8qmu/apphttp://durex.herokuapp.com/assets/stylesheets/style.css.scss */
+  body.create_intro p.button a img {
+    display: none;
+  }
+
+  /* Rather than reduce the font size to what would be too small - remove the arrow to make enough room */
+  /* -- Vote thanks */
+  /* line 3204, /tmp/build_3sojg6lzj8qmu/apphttp://durex.herokuapp.com/assets/stylesheets/style.css.scss */
+  .vote-thanks h1.tear-fade {
+    width: auto;
+    position: relative;
+    top: 0px;
+  }
+
+/* !! */
+.splash .content .features {
+display: block;
+}
+
+
+/* About */
+.grand-prize p.button {
+display: none;
+}
+
+
+/* Naked World */
+/* !! */
+.naked_world form.filter select {
+margin-left:105px;
+}
+
+/* !! */
+.gallery .entry .cover p {
+    color: #4D7AAA;
+    font-size: 27px;
+    font-style: normal;
+    font-weight: bold;
+    left: 0;
+    letter-spacing: -1px;
+    line-height: 85%;
+    padding: 0;
+    position: absolute;
+    text-align: center;
+    top: 25px;
+}
+
+/* Winners gallery */
+
+
+  .gallery .entry .cover p {
+    width: auto;
+    left: -10px;
+font-size:20px;
+width:70px;
+  }
+
+
+
+  /* ======= */
+}

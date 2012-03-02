@@ -1,0 +1,328 @@
+/*
+ * This is a manifest file that'll automatically include all the stylesheets available in this directory
+ * and any sub-directories. You're free to add application-wide styles to this file and they'll appear at
+ * the top of the compiled file, but it's generally better to create a new file per style scope.
+*/
+
+/* http://meyerweb.com/eric/tools/css/reset/
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+@import url("general.css");
+
+/*
+Having issues with ie6 and this last column containing this image:http://pbrg.es/DHAc
+So simply not showing image for now in ie6 for now
+*/
+/* ie6 is ignoring the 'nav select' rule to hide the mobil enav - so had to add a class to it /*
+
+/*
+========================================================
+========================================================
+========================================================
+*/
+/* Print styles!
+-------------------------------------------------------------------------------*/
+/* Media queries
+-------------------------------------------------------------------------------*/
+/*
+========================================================
+========================================================
+========================================================
+
+FACEBOOK STYLES
+
+========================================================
+========================================================
+========================================================
+*/
+/* Facebook style */
+/* Will replace with bog tag 'facebook' as don't want this kicking in on other devices - will it nmatter? */
+
+@import url("facebook.css");
+
+
+/*
+========================================================
+========================================================
+========================================================
+
+END FACEBOOK
+
+========================================================
+========================================================
+========================================================
+*/
+/*
+========================================================
+========================================================
+========================================================
+
+PHONES
+
+========================================================
+========================================================
+========================================================
+*/
+/* General phone rules */
+
+@import url("phone-general.css");
+
+/*
+========================================================
+
+PHONE LANDSCAPE
+
+========================================================
+*/
+@import url("phone-landscape.css");/*
+========================================================
+
+PHONE PORTRAIT
+
+========================================================
+*/
+
+@import url("phone-portrait.css");
+
+@import url("en-gb-fontface.css");
+
+/* -- Notes */
+/*
+
+Country codes:http://pbrg.es/DDhJ
+
+*/
+/* line 3526, /tmp/build_3sojg6lzj8qmu/apphttp://durex.herokuapp.com/assets/stylesheets/style.css.scss */
+.large-entry-image {
+  height: 395px;
+  margin: 0;
+}
+
+/* line 3530, /tmp/build_3sojg6lzj8qmu/apphttp://durex.herokuapp.com/assets/stylesheets/style.css.scss */
+.open-preview {
+  display: block;
+  height: 196px;
+}
+
+/* line 3534, /tmp/build_3sojg6lzj8qmu/apphttp://durex.herokuapp.com/assets/stylesheets/style.css.scss */
+.box-design {
+  display: block;
+}
+
+/* line 3538, /tmp/build_3sojg6lzj8qmu/apphttp://durex.herokuapp.com/assets/stylesheets/style.css.scss */
+#popup-overlay {
+  position: fixed;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  background-color: #000;
+  opacity: 0.5;
+  z-index: 1000;
+}
+
+/* line 3548, /tmp/build_3sojg6lzj8qmu/apphttp://durex.herokuapp.com/assets/stylesheets/style.css.scss */
+#popup-root {
+  position: fixed;
+  z-index: 1001;
+  left: 0;
+  right: 0;
+  top: 0;
+}
+
+/* line 3557, /tmp/build_3sojg6lzj8qmu/apphttp://durex.herokuapp.com/assets/stylesheets/style.css.scss */
+.individual-entry .vote-thanks {
+  position: relative;
+}
+/* line 3559, /tmp/build_3sojg6lzj8qmu/apphttp://durex.herokuapp.com/assets/stylesheets/style.css.scss */
+.individual-entry .vote-thanks .submitted-design {
+  margin-left: 5%;
+}
+/* line 3561, /tmp/build_3sojg6lzj8qmu/apphttp://durex.herokuapp.com/assets/stylesheets/style.css.scss */
+.individual-entry .vote-thanks .submitted-design .star {
+  color: #fff;
+  text-align: center;
+  width: 125px;
+}
+/* line 3565, /tmp/build_3sojg6lzj8qmu/apphttp://durex.herokuapp.com/assets/stylesheets/style.css.scss */
+.individual-entry .vote-thanks .submitted-design .star span {
+  position: relative;
+  top: 10px;
+  font-weight: bold;
+  font-size: 24px;
+  display: block;
+}
+/* line 3570, /tmp/build_3sojg6lzj8qmu/apphttp://durex.herokuapp.com/assets/stylesheets/style.css.scss */
+.individual-entry .vote-thanks .submitted-design .star span span {
+  font-size: 43px;
+}
+/* line 3578, /tmp/build_3sojg6lzj8qmu/apphttp://durex.herokuapp.com/assets/stylesheets/style.css.scss */
+.individual-entry .vote.like {
+  margin-left: 0;
+}
+/* line 3580, /tmp/build_3sojg6lzj8qmu/apphttp://durex.herokuapp.com/assets/stylesheets/style.css.scss */
+.individual-entry .vote.like li.like {
+  margin-right: 44%;
+}
+
+/* line 3585, /tmp/build_3sojg6lzj8qmu/apphttp://durex.herokuapp.com/assets/stylesheets/style.css.scss */
+#popup-root .individual-entry {
+  width: 576px;
+  margin: 100px auto 0 auto;
+  height: 652px;
+  background: url(http://durex.herokuapp.com/assets/bg-entry-preview-pop-fa1c4167e8c89173423249039a97273d.png) no-repeat;
+  position: relative;
+}
+/* line 3591, /tmp/build_3sojg6lzj8qmu/apphttp://durex.herokuapp.com/assets/stylesheets/style.css.scss */
+#popup-root .individual-entry .close {
+  position: relative;
+  top: 30px;
+  left: -20px;
+  cursor: pointer;
+  font-size: 18px;
+}
+/* line 3598, /tmp/build_3sojg6lzj8qmu/apphttp://durex.herokuapp.com/assets/stylesheets/style.css.scss */
+#popup-root .individual-entry .vote-thanks {
+  top: 110px;
+}
+
+/* line 3603, /tmp/build_3sojg6lzj8qmu/apphttp://durex.herokuapp.com/assets/stylesheets/style.css.scss */
+.view-entry .individual-entry .vote-thanks {
+  top: -10px;
+}
+/* line 3606, /tmp/build_3sojg6lzj8qmu/apphttp://durex.herokuapp.com/assets/stylesheets/style.css.scss */
+.view-entry .individual-entry .button {
+  margin-left: 24%;
+}
+
+/*
+=============
+=============
+=============
+*/
+
+ 
+/* line 3638, /tmp/build_3sojg6lzj8qmu/apphttp://durex.herokuapp.com/assets/stylesheets/style.css.scss */
+/* !! */
+  .large-entry-image {
+height: 395px;
+margin: 0 0 20px 0;
+font-size: 11px;
+}
+
+/* !! */
+  .large-entry-image a {
+float: right;
+margin-right: 70px;
+margin-top: 21px;
+}
+
+
+
+/* line 3642, /tmp/build_3sojg6lzj8qmu/apphttp://durex.herokuapp.com/assets/stylesheets/style.css.scss */
+.open-preview {
+  display: block;
+  /* !! */
+  height: auto;
+}
+
+/* line 3646, /tmp/build_3sojg6lzj8qmu/apphttp://durex.herokuapp.com/assets/stylesheets/style.css.scss */
+.box-design {
+  display: block;
+}
+
+/* line 3649, /tmp/build_3sojg6lzj8qmu/apphttp://durex.herokuapp.com/assets/stylesheets/style.css.scss */
+#popup-overlay {
+  position: fixed;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  background-color: #000;
+  opacity: 0.5;
+  z-index: 1000;
+}
+
+/* line 3659, /tmp/build_3sojg6lzj8qmu/apphttp://durex.herokuapp.com/assets/stylesheets/style.css.scss */
+#popup-root {
+  position: fixed;
+  z-index: 1001;
+  left: 0;
+  right: 0;
+  top: 0;
+}
+
+/* line 3666, /tmp/build_3sojg6lzj8qmu/apphttp://durex.herokuapp.com/assets/stylesheets/style.css.scss */
+.individual-entry .vote-thanks {
+  position: relative;
+}
+
+/* line 3669, /tmp/build_3sojg6lzj8qmu/apphttp://durex.herokuapp.com/assets/stylesheets/style.css.scss */
+.individual-entry .vote-thanks .submitted-design {
+  margin-left: 5%;
+}
+
+/* line 3671, /tmp/build_3sojg6lzj8qmu/apphttp://durex.herokuapp.com/assets/stylesheets/style.css.scss */
+.individual-entry .vote-thanks .submitted-design .star {
+  color: #fff;
+  text-align: center;
+  width: 125px;
+}
+
+/* line 3676, /tmp/build_3sojg6lzj8qmu/apphttp://durex.herokuapp.com/assets/stylesheets/style.css.scss */
+.individual-entry .vote-thanks .submitted-design .star span {
+  position: relative;
+  top: 10px;
+  font-weight: bold;
+  font-size: 24px;
+  display: block;
+}
+
+/* line 3683, /tmp/build_3sojg6lzj8qmu/apphttp://durex.herokuapp.com/assets/stylesheets/style.css.scss */
+.individual-entry .vote-thanks .submitted-design .star span span {
+  font-size: 43px;
+}
+
+/* line 3686, /tmp/build_3sojg6lzj8qmu/apphttp://durex.herokuapp.com/assets/stylesheets/style.css.scss */
+.individual-entry .vote.like {
+  margin-left: 0;
+}
+
+/* line 3689, /tmp/build_3sojg6lzj8qmu/apphttp://durex.herokuapp.com/assets/stylesheets/style.css.scss */
+.individual-entry .vote.like li.like {
+  margin-right: 44%;
+}
+
+/* line 3691, /tmp/build_3sojg6lzj8qmu/apphttp://durex.herokuapp.com/assets/stylesheets/style.css.scss */
+#popup-root .individual-entry {
+  width: 576px;
+  margin: 100px auto 0 auto;
+  height: 652px;
+  background: url(http://durex.herokuapp.comhttp://durex.herokuapp.com/assets/bg-entry-preview-pop-fa1c4167e8c89173423249039a97273d.png) no-repeat;
+  position: relative;
+}
+
+/* line 3698, /tmp/build_3sojg6lzj8qmu/apphttp://durex.herokuapp.com/assets/stylesheets/style.css.scss */
+#popup-root .individual-entry .close {
+  position: relative;
+  top: 30px;
+  left: -20px;
+  cursor: pointer;
+  font-size: 18px;
+}
+
+/* line 3705, /tmp/build_3sojg6lzj8qmu/apphttp://durex.herokuapp.com/assets/stylesheets/style.css.scss */
+#popup-root .individual-entry .vote-thanks {
+  top: 110px;
+}
+
+/* line 3708, /tmp/build_3sojg6lzj8qmu/apphttp://durex.herokuapp.com/assets/stylesheets/style.css.scss */
+.view-entry .individual-entry .vote-thanks {
+  top: -10px;
+}
+
+/* line 3711, /tmp/build_3sojg6lzj8qmu/apphttp://durex.herokuapp.com/assets/stylesheets/style.css.scss */
+.view-entry .individual-entry .button {
+  margin-left: 24%;
+}

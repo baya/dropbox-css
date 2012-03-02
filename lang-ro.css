@@ -1,0 +1,215 @@
+
+/* ROMAINIAN */
+
+.lang-ro nav.main ul li {
+font-weight: bold;
+font-size: 14px;
+}
+
+.lang-ro .lost-id p {
+position: absolute;
+bottom: 14px;
+left: 3px;
+line-height: 100%;
+}
+
+.lang-ro .lost-id-list {
+top:22px;
+}
+
+.lang-ro .gallery .entry .cover p {
+font-size: 19px
+}
+
+/* Home */
+
+body.home.lang-ro div.lower div.last > a p {
+top: 12px;
+left: -41px;
+}
+
+body.home.lang-ro div.lower a p {
+right: 31px;
+top: 7px;
+width:auto;
+}
+
+.csstransforms body.home.lang-ro div.lower div.last > a p {
+top: 12px;
+left: -24px;
+}
+
+.csstransforms body.home.lang-ro div.lower a p {
+right: 31px;
+top: 13px;
+width:auto;
+}
+
+/* Splash */
+
+.lang-ro.splash .features .feature-1 {
+font-size:24px;
+top:25px;
+line-height: 90%;
+}
+
+.lang-ro.splash .features .feature-2 {
+font-size:10px;
+left:155px;
+top:75px;
+}
+
+
+.lang-ro.splash .content .features .feature-3 {
+font-size: 15px;
+line-height: 110%;
+}
+
+/* Create intro */
+
+.lang-ro.create_intro .intro .flash p {
+top:38px;
+font-size:12px;
+}
+
+.lang-ro.create_intro .tools .flash p {
+left: 12px;
+top: 36px;
+width: 102px;
+line-height: 100%;
+font-size:10px;
+}
+
+/* Gallery */
+
+.lang-ro nav.sub ul li {
+font-size:13px;
+}
+
+
+.lang-ro.winners-gallery .features .feature-1 {
+font-size:17px;
+top:42px;
+line-height: 90%;
+}
+
+.lang-ro.winners-gallery .features .feature-2 {
+font-size:12px;
+top:72px;
+line-height: 90%;
+}
+
+.lang-ro.winners-gallery .features .feature-3 {
+top: 50px;
+font-size: 14px;
+line-height: 100%;
+}
+
+.lang-ro .gallery li p.tip { 
+bottom:-140px;
+}
+
+.lang-ro .gallery .entry .star {
+font-size:14px;
+line-height:110%;
+}
+
+
+/* About */
+.lang-ro .copy-block .tear-fade {
+font-size:16px;
+padding: 24px 10px 35px 20px;
+}
+
+
+.lang-ro.about .finalists-summary .col .star p {
+font-size: 18px;
+line-height: 110%;
+}
+
+.lang-ro.about .finalists-summary .pink .star p {
+width: 120px;
+font-size:24px;
+padding-top:40px;
+}
+
+.lang-ro.about .finalists-summary .green.col .star p {
+font-size:17px;
+padding-top:34px;
+}
+
+.lang-ro.about .finalists-summary .star p span {
+margin-bottom: 15px;
+}
+
+.lang-ro.about .grand-prize .blue .star p {
+top: 46px;
+}
+
+
+/* Create confirmation */
+
+.lang-ro.confirmation .features .feature-1 {
+font-size: 11px;
+line-height: 100%;
+left: 14px;
+top: 36px;
+}
+
+.lang-ro.confirmation .features .feature-2 {
+top: 82px;
+line-height: 100%;
+left:154px;
+font-size: 13px;
+}
+
+
+.lang-ro.confirmation .features .feature-3 {
+left: 275px;
+font-size: 16px;
+top:60px;
+}
+
+.lang-ro.confirmation .submitted-design .star p {
+font-size: 18px;
+top: 46px;
+}
+
+
+/* -- FACEBOOK */
+@media only screen and (max-width:775px) {
+/* ======================================================== */
+
+.lang-ro .lost-id p {
+position: static;
+}
+
+.lang-ro nav.sub ul li {
+font-size: 8px;
+}
+
+.lang-ro.about .grand-prize .grid_6 .button {
+margin: 30px 0;
+width: 70%;
+}
+
+
+.lang-ro .search input[type="search"] {
+width: 50%;
+}
+
+/* ======================================================== */
+}
+
+
+/* IE ====== */
+.ie7 .lang-ro.splash button.submit {
+width:60%;
+
+}
+
+
+.ie6 .lang-ro.splash .features .feature-2 {
+top:75px;
+font-size:9px;
+}

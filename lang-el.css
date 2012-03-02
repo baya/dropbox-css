@@ -1,0 +1,250 @@
+/* ****** GREEK */
+
+.lang-el .search {
+margin-left:5%;
+}
+
+.lang-el nav.main {
+top:23px;
+}
+
+.lang-el .search label  {
+font-size:12px;
+}
+
+.lang-el .lost-id p a {
+font-size:10px;
+}
+
+.lang-el #resend-id button {
+font-size: 15px;
+}
+
+.lang-el .gallery li p.tip {
+font-size: 17px;
+bottom: -128px;
+}
+
+
+/* Home */
+
+body.home.lang-el .last p.more {
+position: relative;
+top:2px;
+}
+
+body.home.lang-el div.lower div.last > a p {
+top: 8px;
+left: -62px;
+}
+
+body.home.lang-el div.lower a p {
+right: 78px;
+top: 5px;
+}
+
+.csstransforms body.home.lang-el div.lower div.last > a p {
+top: 12px;
+left: -41px;
+}
+
+.csstransforms body.home.lang-el div.lower a p {
+right: 68px;
+top: 20px;
+}
+
+body.home.lang-el .tweet h2 {
+width:50%
+}
+
+
+/* Intro */
+
+.lang-el .features li,
+body.create_intro.lang-el .flash p {
+font-family: Arial, Helvetica, sans-serif;
+font-weight: bold;
+font-size:13px;
+line-height:120%;
+}
+
+body.create_intro.lang-el .intro .flash p {
+left: 99px;
+width: 80px;
+}
+
+body.create_intro.lang-el .flash p {
+top:32px;
+}
+body.create_intro.lang-el .tools .flash p {
+top:41px;
+}
+
+
+/* Splash */
+
+.lang-el.splash .content .features .feature-2 {
+font-size:13px;
+top:72px;
+left:157px;
+}
+
+.lang-el.splash .content .features .feature-3 {
+font-size: 17px;
+line-height: 110%;
+}
+
+/* Gallery */
+
+.lang-el nav.sub ul li {
+font-size:12px;
+}
+
+
+.lang-el .features .feature-3 span {
+font-size: 18px;
+line-height: 130%;
+}
+
+.lang-el.winners-gallery .features .feature-2 {
+left:150px;
+top: 79px;
+width: 80px;
+font-size: 12px;
+}
+
+
+.lang-el.winners-gallery .features .feature-3 {
+top:49px;
+}
+
+.lang-el.winners-gallery .countdown {
+bottom: -78px;
+}
+
+.lang-el .gallery .entry .cover p {
+left: 6px;
+font-size: 20px;
+}
+
+
+.lang-el .features .feature-2 {
+left:152px;
+top:68px;
+
+}
+
+.lang-el .features .feature-1 {
+top:45px;
+}
+
+.lang-el .gallery .entry .star {
+font-size:13px;
+top:-23px;
+}
+
+.lang-el p.button a {
+font-size:16px;
+}
+
+/* About */
+.lang-el .tear-fade {
+font-size:16px;
+padding: 24px 10px 35px 20px;
+}
+
+
+.lang-el.about .finalists-summary .col .star p {
+font-size: 17px;
+padding-top: 31px;
+line-height: 130%;
+}
+
+,lang-el.about .finalists-summary .star p span {
+margin-bottom:12px;
+}
+
+
+.lang-el.about .grand-prize .blue .star p {
+font-size:32px;
+}
+
+.lang-el.about .finalists-summary .star p span {
+margin-bottom: 12px;
+}
+
+
+.lang-el.about .finalists-summary .pink .star p span {
+margin-top: 13px;
+}
+
+.lang-el.about .finalists-summary .pink.col .star p {
+line-height: 100%;
+width:80px;
+}
+
+.lang-el.about .finalists-summary .yellow .star p {
+top: 19px;
+}
+
+
+.lang-el.about .finalists-summary .green.col .star p {
+padding-top: 37px;
+}
+
+/* Submitted design */
+.lang-el .submitted-design .star p {
+top: 28px;
+}
+
+.lang-el.create .features .feature-3 {
+left:276px;
+top:57px;
+} 
+
+.lang-el.create .features .feature-2 {
+left:158px;
+} 
+
+.lang-el.create .features .feature-1 {
+left:17px;
+} 
+
+
+
+/* Naked World */
+.lang-el.naked_world form.filter p {
+font-size: 13px;
+}
+
+
+
+/* -- FACEBOOK */
+@media only screen and (max-width:775px) {
+/* ======================================================== */
+
+.lang-el .search {
+width:70%;
+}
+
+.lang-el nav.sub ul li {
+font-size: 8px;
+margin-right: 6px;
+}
+
+
+.lang-el .features .feature-3 {
+top:47px;
+}
+
+.lang-el.home .grid_4 p.button a {
+font-size: 12px;
+}
+
+.lang-el form.filter {
+padding: 18px 5px 18px 20px;
+}
+
+/* ======================================================== */
+}
+

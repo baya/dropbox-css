@@ -1,0 +1,239 @@
+/* German */
+
+
+
+
+/* Generic */
+
+.lang-de nav.main {
+position: relative;
+top: 23px;
+}
+
+.lang-de nav.main ul li#nav1 a {
+position: relative;
+top: 10px;
+padding-bottom:0;
+}
+
+
+.lang-de nav.main ul li#nav4 a {
+position: relative;
+bottom: 9px;
+}
+
+
+.lang-de .search {
+margin-left:6%;
+}
+
+.lang-de .search label {
+font-size: 13px;
+}
+
+.lang-de .countdown {
+height: 110px;
+}
+ 
+/* Splash */
+.lang-de.splash .content .features .feature-2 {
+top: 71px;
+}
+
+
+.lang-de.splash .content .features .feature-3 {
+top: 49px;
+}
+
+.lang-de.splash .content form .checkbox input[name='remember'] {
+margin: 0 15px 34px 0;
+}
+
+/* Home */
+.lang-de.home .countdown {
+width:160px;
+}
+
+.lang-de.home .tweet h2 {
+font-size: 16px;
+}
+
+/* create_intro */
+
+.lang-de.create_intro .intro .flash p {
+font-size: 17px;
+}
+
+.lang-de.create_intro .tools .flash p {
+left: 17px;
+top: 37px;
+line-height: 100%;
+font-size: 15px;
+}
+
+.lang-de .before-you-start h1 {
+font-size: 24px;
+}
+
+
+/* Gallery */
+
+.lang-de.winners-gallery .features .feature-1 {
+font-size: 16px;
+}
+
+.lang-de.winners-gallery .features .feature-2 {
+top: 78px;
+font-size: 14px;
+left: 155px;
+}
+
+.lang-de.winners-gallery .features .feature-3 {
+width: 85px;
+left: 275px;
+top: 48px;
+font-size: 15px;
+}
+
+.lang-de.winners-gallery .countdown {
+bottom: -78px;
+}
+
+.lang-de.winners-gallery .gallery .entry .cover p {
+top: 45px;
+font-size: 22px;
+}
+
+
+/* About */
+.lang-de.about .tear-fade{
+padding: 23px 10px 35px 20px;
+font-size: 20px;
+}
+
+.lang-de.about .covering h1.tear-fade{
+font-size: 15px;
+}
+
+
+.lang-de.about .finalists-summary .green .star p span {
+display: block;
+font-size: 44px;
+margin-bottom: 15px;
+}
+
+.lang-de.about .finalists-summary .green .star p {
+display: block;
+font-size: 20px;
+margin-bottom: 7px;
+padding-top: 30px;
+}
+
+.lang-de.about .finalists-summary .yellow.col .star p,
+.lang-de.about .finalists-summary .pink.col .star p {
+font-size: 17px;
+top:7px;
+}
+
+.lang-de.about .finalists-summary .pink.col .star p {
+width:85px;
+padding-top:38px;
+}
+
+.lang-de.about .finalists-summary .yellow.col .star p span,
+.lang-de.about .finalists-summary .pink.col .star p span {
+display: block;
+font-size: 34px;
+margin: 8px 0;
+}
+
+.lang-de.about .grand-prize .blue .star p {
+font-size: 33px;
+}
+
+.lang-de #resend-id {
+background: url(http://durex.herokuapp.com/assets/dotty-arrow-right-down-c400249f593c949310af272c77afbff2.png) 95% 210px no-repeat;
+}
+
+.lang-de form.enter-comp {
+background: url(http://durex.herokuapp.com/assets/arrow-small-down-left-ec12b9a1af594ed70ad75c3744ffb85b.png) 78% 0px no-repeat;
+}
+
+/* naked_world */
+
+/* Chart issue http://pbrg.es/EGwT */
+.lang-de.naked_world .chart li span.bar-count {
+width: 42%;
+}
+
+.lang-de.naked_world .gallery .entry .cover p {
+font-size: 21px;
+top:40px;
+}
+
+
+/* Create confirmation */
+.lang-de.confirmation .features .feature-1 {
+left: 15px;
+top: 47px;
+font-size: 14px;
+}
+
+.lang-de.confirmation .features .feature-2 {
+top: 81px;
+}
+
+
+/* ================ */
+/* Small Austria + Swiss fixes */
+
+/* They had a span in where DE didn't (?) */
+.lang-de.winners-gallery .features .feature-3 span {
+font-size: 15px;
+}
+
+.lang-ch.winners-gallery .features .feature-2 {
+top: 82px;
+font-size: 11px;
+}
+
+.lang-ch.about .grand-prize .blue .star p,
+.lang-de-at.about .grand-prize .blue .star p {
+font-size: 21px;
+top: 55px;
+}
+
+.lang-ch.confirmation .features .feature-3 span {
+font-size:18px;
+}
+
+
+
+@media screen and (max-device-width:480px) and (orientation:landscape) {
+
+	.lang-de nav.sub ul li {
+	margin-right: 3px;
+	font-size: 11px;
+	}
+
+
+}
+
+/* -- FACEBOOK */
+@media only screen and (max-width:775px) {
+/* ======================================================== */
+
+.lang-de nav.main ul li#nav4 a {
+bottom: 0;
+}
+
+.lang-de .talk {
+margin-bottom:50px;
+}
+
+/* ======================================================== */
+}
+
+
+
+
